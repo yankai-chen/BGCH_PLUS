@@ -4,6 +4,19 @@
 
 This repository provides the PyTorch implementation for our TKDE'24 paper [[BGCH+](https://arxiv.org/pdf/2408.09239)].
 
+## 💾 Datasets
+
+### Download
+
+The datasets used in our paper can be downloaded from the following link. 
+
+* **Dataset Link:** [Google Drive](https://drive.google.com/file/d/1Aj782w1YR1JooW5uXZyozv5ddlNwvRbe/view?usp=sharing)
+
+After downloading, place the dataset folder under the root.
+
+
+
+
 
 ## 🔧 Requirements
 
